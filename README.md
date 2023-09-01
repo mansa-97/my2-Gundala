@@ -8,9 +8,19 @@ Lab-2 on Markdown in Webapps
 
 ## Activities and Dishes:
 
-Activities to do at the Vacation spot:
+Activities to do at the Vacation spot (Japan):
 1. Visiting Temples
 2. Go Hiking
 3. Immerse yourself in Ghibli Museum
 4. Experiencing festivals
-5. Follow the Sakura
+5. Follow the Sakura <br>
+and there are more activities to try at Japan.
+
+Famous Dishes to try at Japan:
+* Sushi
+* Sashimi
+* Ramen
+* Japanese Curry
+* Mochi
+* Tonkatsu <br>
+and there are many amazing dishes to try.
