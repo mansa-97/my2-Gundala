@@ -25,4 +25,3 @@ Famous Dishes to try at Japan:
 * Tonkatsu <br>
 and there are many amazing dishes to try.
 
-**[MyStats Markdown file](MyStats.md)**
