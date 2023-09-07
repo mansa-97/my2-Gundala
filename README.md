@@ -40,3 +40,14 @@ and there are many amazing dishes to try.
  | Volleyball | It is a good workout to play this sport | 13 |
  | Boxing | Self Defense and Confidence | 2 |
  | Bowling | Fun game to play with friends | 5 | 
+
+
+***
+
+## Pithy Quotes by Scientists
+
+> " The quest for knowledge is a never-ending adventure, and every discovery opens up new horizons of possibility. " - *Rita Levi-Montalcini*
+
+>"The only true wisdom is in knowing you know nothing." - *Socrates*
+
+>"Imagination is more important than knowledge." - *Albert Einstein*
