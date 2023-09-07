@@ -51,3 +51,23 @@ and there are many amazing dishes to try.
 >"The only true wisdom is in knowing you know nothing." - *Socrates*
 
 >"Imagination is more important than knowledge." - *Albert Einstein*
+
+***
+
+## Code Fencing with Code Snippet
+
+Q on Stackflow: 
+>Truncating text with "text-overflow: ellipsis"
+
+Article on Stack overflow:<https://stackoverflow.com/questions/37864842/truncating-text-with-text-overflow-ellipsis>
+
+Code Snippet from CSS-tricks:
+```
+.truncate {
+  width: 250px;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+```
+Snippet Source:<https://css-tricks.com/snippets/css/truncate-string-with-ellipsis/>
