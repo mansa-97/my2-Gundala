@@ -26,3 +26,17 @@ Famous Dishes to try at Japan:
 and there are many amazing dishes to try.
 
 **[MyStats Markdown file](MyStats.md)**
+
+***
+
+## Sports Recommendations:
+
+ These are the different kind of sports that I would recommend someone to try.This table contains the name of the sports,the reason why I recommend them and also how many hours I would spend participating in the sport.These sports are based on my interests,I hope you find your interest in sports and give them a try.
+
+ | Name of the Sport | Reason for Recommending| Hours spent in an Avg week|
+ | --- | --- | :---: |
+ | Badminton | It is the sport i played since childhood,I am very good at it | 21 |
+ | Cricket | I love watching Cricket,But it would be fun to play | 10 |
+ | Volleyball | It is a good workout to play this sport | 13 |
+ | Boxing | Self Defense and Confidence | 2 |
+ | Bowling | Fun game to play with friends | 5 | 
